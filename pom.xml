@@ -36,7 +36,7 @@
     <maven.compiler.target>1.6</maven.compiler.target>
 
     <vaadin.version>6.8.8</vaadin.version>
-    <spring.version>3.2.1.RELEASE</spring.version>
+    <spring.version>5.2.24.RELEASE</spring.version>
     <aspectj.version>1.7.1</aspectj.version>
     
     <!-- Plugin versions -->
